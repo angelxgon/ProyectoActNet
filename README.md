@@ -1,2 +1,2 @@
 # ProyectoActNet
-Proyecto PinPad (Go, Kotlin)
+Proyecto PinPad Go
